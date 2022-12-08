@@ -2,7 +2,6 @@ package com.bismus.FifthLabSpringHibernateCRUD.repository.person;
 
 
 import com.bismus.FifthLabSpringHibernateCRUD.model.Person;
-import com.bismus.FifthLabSpringHibernateCRUD.repository.person.PersonRepository;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import org.springframework.stereotype.Repository;

@@ -81,3 +81,15 @@
 1670367914601:find-all-person
 1670367974821:find-all-pet
 1670368002749:reset-pet-owner
+1670537802126:find-person-by-id
+1670537817307:update-person
+1670537835984:exit
+1670541690126:reset-owner
+1670541748540:reset-pet-owner
+1670542397415:find-all-person
+1670542412836:find-all-pet
+1670542456671:reset-owner-pet
+1670542464251:reset-pet-owner
+1670542478815:find-all
+1670542485320:find-all-person
+1670542496176:find-all-pet
